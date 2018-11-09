@@ -116,6 +116,8 @@ To specify a mailbox or distribution group, you can use any value that uniquely 
 
 - GUID
 
+To specify a mailbox which is Soft-deleted or Inactive, preface the email address with a period (.)
+
 To enter multiple values, use the following syntax: \<value1\>,\<value2\>,...\<valueX\>. If the values contain spaces or otherwise require quotation marks, use the following syntax: "\<value1\>","\<value2\>",..."\<valueX\>".
 
 ```yaml
